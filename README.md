@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyotirmoy-roy" alt="jyotirmoy-roy" /></a> </p>
 
-- 🔭 I’m currently working on **Pro programmer**
+- 🔭 I’m currently working on ** Zerocopter & Hackerone **
 
 - 📫 How to reach me **jyotirmoyroy340@gmail.com**
 
